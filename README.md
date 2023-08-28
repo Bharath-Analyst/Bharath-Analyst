@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharath-Analyst
 - 👀 I’m interested in Data Analyst / Business Analyst / Prompt Engineer.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Generative AI 
 - 💞️ I’m looking to start my career as an Prompt Engineer
 - 📫 Gmail ID: bharath13252002@gmail.com
 
